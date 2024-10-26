@@ -1,0 +1,18 @@
+TypeScirpt
+    --> Dasar
+        -> ber-orientasi object yang dibuat oleh microsoft
+        -> ketika kita kompile maka akan dirubah menjadai javaScript
+        -> code mudah dibaca dan de-bug
+        -> tipe bahasa yang stronlyType 
+            -> Seperti:
+                - Java
+                - C++
+                - C
+    
+    --> Process TypeScirpt
+         --> ketika kita sudah develop TypeScirpt kita bisa
+             compile dengan "tsc" untuk kemudian akan dirubah menjadi javaScript
+
+    --> Keuntungann
+         --> karena TypeScirpt dicompilasi menjadi javaScript, kita ga perlu lagi pusing
+             dengan code javaScript yang belum disuppport. karena semua akan diurus oleh TypeScirpt.
